@@ -31,7 +31,7 @@ func main() {
 	if total >= PassingScore {
 		fmt.Println("Поздвравляем, вы прошли вступительные экзамены")
 	} else {
-		fmt.Println("Вы не поступили.((((git")
+		fmt.Println("Вы не поступили.((((git////")
 	}
 
 }
