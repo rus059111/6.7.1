@@ -12,7 +12,7 @@ func main() {
 	total := 0
 	PassingScore := 275
 
-	fmt.Println("Введите результат первого экзамена:")
+	fmt.Println("Введитpwdе результат первого экзамена:")
 	var ExamResult int
 	fmt.Scan(&ExamResult)
 	total += ExamResult
@@ -31,7 +31,7 @@ func main() {
 	if total >= PassingScore {
 		fmt.Println("Поздвравляем, вы прошли вступительные экзамены")
 	} else {
-		fmt.Println("Вы не поступили.")
+		fmt.Println("Вы не поступили.((((")
 	}
 
 }
